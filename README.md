@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!
 - 📫 How to reach me: https://www.linkedin.com/in/john-youn/
 - 😄 Pronouns: He/Him
--->
