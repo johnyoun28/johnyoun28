@@ -16,7 +16,7 @@ Skills
 HTML | CSS | JavaScript | React | Redux | Node.js | Python | Jest | Express | Knex
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnyoun28)](https://github.com/johnyoun28/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnyoun28)](https://github.com/johnyoun28)
 
 
 
