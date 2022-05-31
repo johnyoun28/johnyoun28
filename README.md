@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Story Squad
-- 🌱 I’m currently learning Ant Design
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning AWS
 - 🤔 I’m looking for help with the job search 
 - 💬 Ask me about anything!
 - 📫 How to reach me: https://www.linkedin.com/in/john-youn/ or johnyoun28@gmail.com
